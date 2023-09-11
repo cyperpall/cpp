@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sm/cpp/build",
+  "command": "/usr/bin/g++   -I/home/sm/cpp/include -I/home/sm/cpp/driver/include -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/cpp.dir/main.cpp.o -c /home/sm/cpp/main.cpp",
+  "file": "/home/sm/cpp/main.cpp"
+}
+]
